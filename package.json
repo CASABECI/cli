@@ -78,7 +78,7 @@
   "dependencies": {
     "@bugsnag/js": "7.20.2",
     "@fastify/static": "6.10.2",
-    "@netlify/build": "29.31.4",
+    "@netlify/build": "33.0.0",
     "@netlify/build-info": "7.10.1",
     "@netlify/config": "20.9.0",
     "@netlify/edge-bundler": "9.4.1",
@@ -138,7 +138,7 @@
     "is-stream": "3.0.0",
     "is-wsl": "2.2.0",
     "isexe": "2.0.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "jsonwebtoken": "9.0.1",
     "jwt-decode": "3.1.2",
     "lambda-local": "2.1.2",
